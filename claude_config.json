@@ -1,0 +1,11 @@
+{
+  "mcpServers":
+  {
+    "weather":
+    {
+      "command":"uv","args":[
+        "--directory","     "  ##fill your file directory in the space
+      ]
+    }
+  }
+}
