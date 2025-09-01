@@ -1,7 +1,7 @@
 # MCP-Connction
 I have connected my weather bot with claude through the MCP Connection
-Here’s a clean GitHub description you can use for your project (without emojis, fully technical, and extended with extra details about MCP and Claude Desktop):
 
+## Install Claude desktop and sign in
 
 ## MCP Weather Bot – Claude Desktop Integration
 
