@@ -42,7 +42,8 @@ This project defines a weather tool that Claude can call through MCP. Users can 
    ```bash
    python weather_bot.py
    ```
-
+## Under developer option in the claude settings 
+# Click edit config open claude_config.json 
 5. Configure Claude Desktop to load this MCP server by editing `claude_desktop_config.json` (usually found in Claude’s settings directory). Example entry:
 
    ```json
